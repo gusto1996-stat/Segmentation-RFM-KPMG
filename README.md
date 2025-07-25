@@ -87,9 +87,9 @@ Ce notebook propose une approche de simulation ou d’analyse prédictive :
 
 ## ✅ Résultats Clés (à adapter)
 
-- Des tendances ont été identifiées entre les variables ___ et ___
-- Le modèle de simulation montre que ___ peut entraîner ___
-- Des recommandations stratégiques sont proposées à partir des résultats
+- Des tendances significatives ont été identifiées entre les variables socio-économiques et les comportements observés dans les données.
+- Le modèle de simulation montre que de petites variations dans certains paramètres critiques peuvent entraîner des écarts notables dans les résultats (effet de levier ou effet seuil).
+- Des recommandations stratégiques sont proposées, telles que l’optimisation des interventions ciblées et l'ajustement des politiques en fonction des simulations les plus probables.
 
 ---
 

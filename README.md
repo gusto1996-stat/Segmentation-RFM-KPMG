@@ -85,7 +85,7 @@ Ce notebook propose une approche de simulation ou d’analyse prédictive :
 
 ---
 
-## ✅ Résultats Clés (à adapter)
+## ✅ Résultats Clés
 
 - Des tendances significatives ont été identifiées entre les variables socio-économiques et les comportements observés dans les données.
 - Le modèle de simulation montre que de petites variations dans certains paramètres critiques peuvent entraîner des écarts notables dans les résultats (effet de levier ou effet seuil).

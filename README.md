@@ -63,8 +63,8 @@ Ce notebook propose une approche de simulation ou d’analyse prédictive :
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/ton_profil/nom_du_repo.git
-   cd nom_du_repo
+   git clone https://github.com/gusto1996-stat/Segmentation-RFM-KPMG.git
+   cd Segmentation-RFM-KPMG
    ```
 
 2. **Créer un environnement virtuel :**

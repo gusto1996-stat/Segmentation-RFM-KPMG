@@ -111,4 +111,4 @@ Ce notebook propose une approche de simulation ou d’analyse prédictive :
 
 ## 📝 Licence
 
-Projet académique / expérimental – Licence à définir selon le contexte de diffusion.
+Projet expérimental – Licence à définir selon le contexte de diffusion.
